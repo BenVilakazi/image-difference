@@ -1,0 +1,14 @@
+{
+  "name": "@mbostock/image-difference",
+  "main": "d887fd7f6548967d@88.js",
+  "version": "88.0.0",
+  "homepage": "https://observablehq.com/@mbostock/image-difference",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://observablehq.com/@mbostock"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
